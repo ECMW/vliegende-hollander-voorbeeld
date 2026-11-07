@@ -2,9 +2,9 @@
 
 Websiteconcept voor particuliere verhuizingen, bedoeld om het ontwerp te bespreken.
 
-Concept 02 is lokaal voorbereid en getest. GitHub Pages is nog niet ingeschakeld.
+Concept 02 is voorbereid en getest op desktop en mobiel. GitHub Pages is ingeschakeld.
 
-Voorgenomen voorbeeldadres: https://ecmw.github.io/vliegende-hollander-voorbeeld/
+Voorbeeldadres: https://ecmw.github.io/vliegende-hollander-voorbeeld/
 
 Dit is geen officiële bedrijfswebsite. Het formulier verstuurt niets, berekent geen prijs en reserveert geen datum. De bestaande bedrijfswebsite blijft ongewijzigd.
 
